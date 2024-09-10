@@ -12,7 +12,10 @@ This project is a web application replicating Twitter’s interface, developed t
 - **HTML**: For the basic structure and content of the web pages.
 - **Tailwind CSS**: For styling, creating a responsive and modern design.
 
-## Demonstration Video
+## Video Demonstration
+
+A video demonstration of the project is available to showcase the user interface and its responsive design.
+  
 
 https://github.com/user-attachments/assets/bdbabf28-f62a-4985-b836-0e4902e9d9bd
 
